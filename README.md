@@ -21,29 +21,19 @@ Atualmente estou focado em aprimorar minhas habilidades em desenvolvimento Front
 
 ### Front-End
 
-* HTML5
-* CSS3
-* JavaScript
-* React
-* Vite
+* HTML5 * CSS3 * JavaScript * React * Vite
 
 ### Back-End
 
-* Python
-* FastAPI
-* Node.js
+* Python * FastAPI * Node.js
 
 ### Banco de Dados
 
-* SQL
-* PostgreSQL
-* Supabase
+* SQL * PostgreSQL * Supabase
 
 ### Ferramentas
 
-* Git
-* GitHub
-* VS Code
+* Git * GitHub * VS Code
 
 ---
 
