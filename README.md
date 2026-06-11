@@ -21,7 +21,7 @@ Atualmente estou focado em aprimorar minhas habilidades em desenvolvimento Front
 
 ### Front-End
 
-* HTML5 * CSS3 * JavaScript * React * Vite
+* HTML * CSS * JavaScript * React * Vite
 
 ### Back-End
 
