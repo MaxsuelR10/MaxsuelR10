@@ -1,73 +1,51 @@
-## Hi there 👋
+![Maxsuel Rodrigues Santos • Desenvolvimento web e produtos digitais](assets/banner.svg)
 
-# Olá! Eu sou Maxsuel Rodrigues Santos 👋
+# Maxsuel Rodrigues Santos
 
-💻 Desenvolvedor Front-End em formação
-🎓 Técnico em Desenvolvimento de Sistemas pela ETEC Prof. Massuyuki Kawano
-📚 Graduando em Análise e Desenvolvimento de Sistemas pela UNIMAR
-🚀 Em busca da minha primeira oportunidade na área de Tecnologia
+**Desenvolvedor Frontend e Full Stack Júnior** · Tupã, SP
 
----
+Desenvolvo aplicações web e gosto de acompanhar o caminho completo da interface até as regras de negócio. Criei o **Finanças do Max**, para organização financeira pessoal, e desenvolvo o **DuoAgenda** em parceria com meu irmão. Sou técnico em Desenvolvimento de Sistemas e curso Análise e Desenvolvimento de Sistemas.
 
-## 👨‍💻 Sobre mim
+[LinkedIn](https://www.linkedin.com/in/maxsuel-rodrigues-santos-3422a219a/) · [GitHub](https://github.com/MaxsuelR10)
 
-Sou apaixonado por tecnologia e desenvolvimento web. Tenho experiência prática na criação de aplicações utilizando HTML, CSS, JavaScript, React, SQL e FastAPI.
+## Produtos
 
-Atualmente estou focado em aprimorar minhas habilidades em desenvolvimento Front-End e construir projetos que resolvam problemas reais.
+### DuoAgenda
 
----
+SaaS de agendamento online para estabelecimentos que atendem com hora marcada. A Área Empresa reúne agenda, serviços e equipe. Pelo link público, o cliente escolhe o atendimento e pode consultar seus horários na Área Cliente.
 
-## 🛠️ Tecnologias
+**React · Vite · Python · FastAPI · Supabase**
 
-### Front-End
+[Conhecer o DuoAgenda](https://duoagenda.com.br)
 
-* HTML * CSS * JavaScript * React * Vite
+### Finanças do Max
 
-### Back-End
+Aplicação web instalável para acompanhar receitas, despesas, contas, cartões e faturas. Trabalhei com regras de parcelamento, importação CSV e sincronização por usuário.
 
-* Python * FastAPI * Node.js
+**JavaScript · Node.js · Prisma · Neon/PostgreSQL · Vercel**
 
-### Banco de Dados
+## Tecnologias que uso
 
-* SQL * PostgreSQL * Supabase
+![JavaScript, React, Python, Node.js e PostgreSQL](assets/tecnologias.svg)
 
-### Ferramentas
+| Área | Projetos e prática |
+| --- | --- |
+| Frontend web | HTML, CSS, JavaScript, React, Vite |
+| Backend e integração | Python, FastAPI, Node.js, Express, APIs REST |
+| Banco e identidade | SQL, PostgreSQL, Supabase, Neon, Prisma |
+| Entrega e qualidade | Git, GitHub, Vercel, pytest, Playwright, Node Test Runner |
+| Projetos acadêmicos | React Native, Expo e MySQL |
 
-* Git * GitHub * VS Code
+## Projetos técnicos e colaborativos
 
----
+- [Cabeleleila Leila](https://github.com/MaxsuelR10/teste-dsin-cabeleleila) — desafio técnico de agendamento com React, Node.js, Express e PostgreSQL. Inclui regras de agenda, painel administrativo e testes.
+- [Gestoon Web](https://github.com/L1nizera/Gestoon-Web) e [Gestão de Tarefas Mobile](https://github.com/JULIOcesar353/gestao-tarefas-mobile) — contribuições em equipe em um projeto acadêmico de gestão de tarefas, com React na web e React Native/Expo no aplicativo.
 
-## 🚀 Projetos em Destaque
+## Formação
 
-### StyleHub
+- **Análise e Desenvolvimento de Sistemas**, Universidade de Marília (Unimar) · cursando
+- **Técnico em Desenvolvimento de Sistemas**, ETEC Prof. Massuyuki Kawano · concluído
 
-Sistema de agendamentos para barbearias, salões de beleza e estúdios de estética.
+Busco oportunidades de estágio ou posições júnior em Frontend e Full Stack.
 
-**Principais funcionalidades:**
-
-* Agendamento online
-* Gestão de clientes
-* Controle de horários
-* Painel administrativo
-* Área do cliente
-
----
-
-## 📈 Objetivos
-
-* Conseguir minha primeira oportunidade como Desenvolvedor Front-End Júnior
-* Evoluir em React e desenvolvimento web
-* Contribuir com projetos open source
-* Aprender novas tecnologias constantemente
-
----
-
-## 📫 Contato
-
-* LinkedIn: seu-linkedin
-* GitHub: github.com/seuusuario
-* E-mail: [maxsuelrodriguessantos15@gmail.com](mailto:maxsuelrodriguessantos15@gmail.com)
-
----
-
-⭐ Sempre aprendendo, evoluindo e construindo novos projetos.
+[LinkedIn](https://www.linkedin.com/in/maxsuel-rodrigues-santos-3422a219a/) · [E-mail profissional](mailto:maxsuelrodriguessantos15@gmail.com)

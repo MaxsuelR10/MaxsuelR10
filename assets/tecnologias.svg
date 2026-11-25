@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="76" viewBox="0 0 760 76" role="img" aria-label="JavaScript, React, Python, Node.js e PostgreSQL">
+  <rect width="760" height="76" rx="13" fill="#0b1529"/>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" fill="#eff6ff">
+    <rect x="22" y="23" width="30" height="30" rx="5" fill="#f7df1e"/>
+    <text x="29" y="44" font-size="13" fill="#172130">JS</text><text x="61" y="44">JavaScript</text>
+    <g transform="translate(195 38)" stroke="#61dafb" stroke-width="1.7" fill="none"><ellipse rx="18" ry="6"/><ellipse rx="18" ry="6" transform="rotate(60)"/><ellipse rx="18" ry="6" transform="rotate(120)"/><circle r="2" fill="#61dafb"/></g><text x="219" y="44">React</text>
+    <path d="M313 26h20v12h-15v5h-12V31q0-5 7-5z" fill="#4b8bbe"/><path d="M317 38h17v-5h10v13q0 5-6 5h-21z" fill="#ffd43b"/><circle cx="320" cy="31" r="1.4" fill="#fff"/><circle cx="333" cy="46" r="1.4" fill="#fff"/><text x="354" y="44">Python</text>
+    <path d="M461 22l15 8v16l-15 8-15-8V30z" fill="none" stroke="#82c462" stroke-width="2"/><text x="484" y="44">Node.js</text>
+    <g fill="none" stroke="#87bfff" stroke-width="2"><ellipse cx="598" cy="29" rx="14" ry="5"/><path d="M584 29v17c0 7 28 7 28 0V29M584 37c0 7 28 7 28 0"/></g><text x="620" y="44">PostgreSQL</text>
+  </g>
+</svg>

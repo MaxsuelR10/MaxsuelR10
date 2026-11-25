@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="280" viewBox="0 0 1280 280" role="img" aria-labelledby="title desc">
+  <title id="title">Maxsuel Rodrigues Santos</title><desc id="desc">Desenvolvimento web e produtos digitais</desc>
+  <defs><linearGradient id="navy"><stop stop-color="#0b1529"/><stop offset="1" stop-color="#152a49"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M 32 0 L 0 0 0 32" fill="none" stroke="#8abfff" stroke-opacity=".11"/></pattern></defs>
+  <rect width="1280" height="280" rx="22" fill="url(#navy)"/>
+  <rect x="870" width="410" height="280" rx="22" fill="url(#grid)"/>
+  <path d="M1000 65h175v150h-175z M955 104h175v110H955z" fill="none" stroke="#6caeff" stroke-opacity=".45" stroke-width="2"/>
+  <path d="M1010 147l-19 17 19 17m52-34 19 17-19 17m-20-43-12 53" fill="none" stroke="#85bdff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="62" y="55" width="52" height="4" rx="2" fill="#71b6ff"/>
+  <text x="62" y="140" fill="#f4f8ff" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="700">Maxsuel Rodrigues Santos</text>
+  <text x="64" y="195" fill="#a8cfff" font-family="Segoe UI, Arial, sans-serif" font-size="28">Desenvolvimento web e produtos digitais</text>
+</svg>
